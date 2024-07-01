@@ -96,5 +96,3 @@
 <p>Adding filters for more granular analysis of content by specific directors or cast members.</p>
 <p>Enhancing the geographical analysis with additional demographic data.</p>
 
-<h2>Contact</h2>
-<p>For any queries or further information, please contact [your email/organization].</p>
