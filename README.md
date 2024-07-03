@@ -4,6 +4,12 @@
 <h2>Overview</h2>
 <p>This Power BI dashboard provides insights into Amazon Prime Video's vast collection of shows and movies. It allows users to explore data related to the types, ratings, genres, and geographical distribution of content available on the platform.</p>
 
+
+
+![Screenshot 2024-07-01 161254](https://github.com/PoshankBramhe/Amazon-Prime-Dashboard/assets/154652656/da52e7da-375f-42dd-8e7d-a84531678bf8)
+
+
+
 <h2>Data Source</h2>
 <p>The dataset used for this dashboard comprises the following columns:</p>
 <ul>
